@@ -15,28 +15,28 @@ const ageGroups = [
     description: "여행과 경험 소비를 즐기는 탐험파",
     color: "bg-red-100",
     image: "/images/20.png",
-    href: "/quiz/20s",
+    href: "/twenty",
   },
   {
     label: "30대",
     description: "가성비와 미래 준비가 중요한 실속파",
     color: "bg-yellow-100",
     image: "/images/30.png",
-    href: "/quiz/30s",
+    href: "/thirty",
   },
   {
     label: "40대",
     description: "가족과 건강 모두를 챙기는 균형파",
     color: "bg-green-100",
     image: "/images/40.png",
-    href: "/quiz/40s",
+    href: "/fourty",
   },
   {
     label: "50대 이상",
     description: "안정과 은퇴 준비에 집중하는 신중파",
     color: "bg-blue-100",
     image: "/images/50.png",
-    href: "/quiz/50plus",
+    href: "/fifty",
   },
 ];
 
